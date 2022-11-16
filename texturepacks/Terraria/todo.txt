@@ -1,0 +1,7 @@
+fix orange3/diamond placement, set too high up for level numbers
+    the ones that are fine are green6
+fix gold coin quality: large object, easy to spot low quality
+cowboy hats are goofy, should prob remove
+ak is still broken
+fix pulse
+retexture the rest of the weapons
